@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Юрий](https://up.htmlacademy.ru/javascript/20/user/779703).
-* Наставник: `Неизвестно`.
+* Наставник: `Роман Марченко`.
 
 ---
 
